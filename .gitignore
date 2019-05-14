@@ -1,0 +1,8 @@
+.testresults/
+**/node_modules/
+**/*.tar*
+**/*.gz
+**/*.tgz
+**/*.zip
+.ntvs_analysis.dat*
+npm-debug*
